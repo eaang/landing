@@ -80,7 +80,7 @@ a {
   color: #e1dfe1;
 }
 .btn-primary:hover {
-  background-color: #9C3D30;
+  opacity: 0.9;
 }
 
 /* Cards design */
